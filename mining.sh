@@ -15,5 +15,3 @@ while [ 1 ]; do
 ./cpuminer-sse2 -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u MhaweNm6sj2PeBsxzJN5u1LChuUqKEGzEC -t2
 sleep 2
 done
-
-# selesai
